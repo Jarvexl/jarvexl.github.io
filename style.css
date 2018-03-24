@@ -103,9 +103,6 @@ a:active, a:visited a:focus{
 	padding: 10rem 0px;
 	text-align:center;
 }
-.port-img{
-	background-image:url(img/portfolio/food-three.jpg);
-}
 .section-header{
 	text-align: center;
 	text-transform: uppercase;
@@ -117,6 +114,7 @@ a:active, a:visited a:focus{
 	widows: 100%;
 	max-width: 360px;
 	box-shadow: 0px 4px 29px 0px rgba(87,92,97,0.54);
+	background-image:url(img/portfolio/food-three.jpg);
 }
 .portfolio a{
 	display: block;
